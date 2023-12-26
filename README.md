@@ -32,7 +32,9 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-https://drive.google.com/file/d/1Z5U_mAxQnG8rrUKOK4BK9DOM71M5SGC-/view?usp=drive_link
+Penjelasan coding atau pembuatan game (https://drive.google.com/file/d/1_FMRsrSkPIXsobya6KT3pwkz9Hxmq71C/view?usp=drive_link)
+
+Demonstrasi Game (https://drive.google.com/file/d/1Z5U_mAxQnG8rrUKOK4BK9DOM71M5SGC-/view?usp=drive_link)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
