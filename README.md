@@ -28,6 +28,8 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+https://drive.google.com/file/d/1Qg-w6YNgzoJJrKoP3U_IeHSYDor5O2rQ/view?usp=drive_link
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
