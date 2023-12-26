@@ -168,3 +168,5 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://dhikaaprtma.wordpress.com/2023/12/26/melampaui-hambatan/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+https://dhikaaprtma.wordpress.com/2023/12/26/pengenalan-informatika/
