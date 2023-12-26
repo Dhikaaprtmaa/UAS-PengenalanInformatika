@@ -165,4 +165,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/2023/12/26/melampaui-hambatan/
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
