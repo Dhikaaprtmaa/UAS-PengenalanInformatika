@@ -66,6 +66,10 @@ Referensi tutorial
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
+contoh demonstrasi tampilan halaman website (https://drive.google.com/file/d/1ZJGxEGCIsGcBaRM2R9qk5uxw9PNE9v7T/view?usp=drive_link)
+
+penjelasan mengenai pembuatan halaman menggunakan struktur HTML 5 dan Desain menggunakan CSS (
+
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
