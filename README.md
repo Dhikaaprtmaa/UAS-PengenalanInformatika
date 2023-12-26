@@ -8,6 +8,8 @@ https://dhikaaprtma.wordpress.com/2023/12/26/pengenalan-informatika/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/2023/12/26/seni-menjalin-hubungan/
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
