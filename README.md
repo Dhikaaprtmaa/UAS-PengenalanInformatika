@@ -34,6 +34,8 @@ https://drive.google.com/file/d/1Qg-w6YNgzoJJrKoP3U_IeHSYDor5O2rQ/view?usp=drive
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+https://drive.google.com/file/d/1wFqSKASy_aAEfy5X_U1FQTrb-hucbUJd/view?usp=drive_link
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 Penjelasan coding atau pembuatan game (https://drive.google.com/file/d/1_FMRsrSkPIXsobya6KT3pwkz9Hxmq71C/view?usp=drive_link)
