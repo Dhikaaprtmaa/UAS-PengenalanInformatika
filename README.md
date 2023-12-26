@@ -24,6 +24,17 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
+Contoh Flow chart tentang game yang telah di buat 
+
+```mermaid
+flowchart TD;
+    A[Start Game] --> B[Display Main Menu];
+    B --> C[Player Chooses];
+    C --> D[Initialize Game];
+    D --> E[Main Game Loop While Player];
+    E --> F[Game Over];
+```
+
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
