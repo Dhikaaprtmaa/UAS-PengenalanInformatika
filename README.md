@@ -32,6 +32,8 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://drive.google.com/file/d/1Z5U_mAxQnG8rrUKOK4BK9DOM71M5SGC-/view?usp=drive_link
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
