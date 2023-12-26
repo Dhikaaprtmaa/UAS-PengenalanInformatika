@@ -68,7 +68,7 @@ Referensi tutorial
 
 contoh demonstrasi tampilan halaman website (https://drive.google.com/file/d/1ZJGxEGCIsGcBaRM2R9qk5uxw9PNE9v7T/view?usp=drive_link)
 
-penjelasan mengenai pembuatan halaman menggunakan struktur HTML 5 dan Desain menggunakan CSS (
+penjelasan mengenai pembuatan halaman menggunakan struktur HTML 5 dan Desain menggunakan CSS (https://drive.google.com/file/d/1WMVwIlZPkE7_i2Mv93_Ai5s16r0t9Q_P/view?usp=drive_link)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
