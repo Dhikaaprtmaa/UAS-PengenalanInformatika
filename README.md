@@ -161,6 +161,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://www.linkedin.com/in/andhika-pratama-k-1359462a6/
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 https://github.com/Dhikaaprtmaa
