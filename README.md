@@ -14,6 +14,8 @@ https://dhikaaprtma.wordpress.com/2023/12/26/seni-menjalin-hubungan/
 
 ![Windows Command Line Cheat Sheet_ All You Need in One Place - Google Chrome 27_12_2023 07_54_33](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/9c6684c3-ffcc-4444-ab98-d95b58f3f8ed)
 
+![New Tab - Google Chrome 27_12_2023 10_54_16](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/9d102c23-a702-42a6-a09f-11d211b6047a)
+
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
