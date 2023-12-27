@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1Qg-w6YNgzoJJrKoP3U_IeHSYDor5O2rQ/view?usp=drive
 public class BubbleSort {
 
     public static void main(String[] args) {
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {65, 27, 11, 39, 58, 76, 98};
 
         System.out.println("Array sebelum diurutkan:");
         printArray(arr);
