@@ -150,6 +150,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/2023/12/27/profesi-terkait-informatika-dan-profesi-yang-diminati/
+
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
