@@ -176,4 +176,4 @@ https://dhikaaprtma.wordpress.com/2023/12/26/melampaui-hambatan/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-https://dhikaaprtma.wordpress.com/2023/12/26/pengenalan-informatika/
+(https://dhikaaprtma.wordpress.com/2023/12/27/membaca-buku-informatika/)
