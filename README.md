@@ -193,6 +193,12 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+Disini saya menonton sebuah video persentasi tugas akhir dari NOVIANI JEMIMA UNIVERSITAS BINA SARANA INFORMATIKA
+
+https://youtu.be/7rSyCTLLPT8?si=hJ61Ez_PDV6H-qPw
+
+
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 https://dhikaaprtma.wordpress.com/2023/12/27/profesi-terkait-informatika-dan-profesi-yang-diminati/
