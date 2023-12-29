@@ -179,6 +179,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+https://drive.google.com/file/d/1BoBCQqyBDr7Utc2IgSNNVo3-y_sZ2ALu/view?usp=drive_link
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
