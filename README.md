@@ -197,7 +197,7 @@ Disini saya menonton sebuah video persentasi tugas akhir dari NOVIANI JEMIMA UNI
 
 https://youtu.be/7rSyCTLLPT8?si=hJ61Ez_PDV6H-qPw
 
-
+https://dhikaaprtma.wordpress.com/2023/12/29/menonton-tugas-akhir-informatika/
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
