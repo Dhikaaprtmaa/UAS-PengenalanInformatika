@@ -187,6 +187,8 @@ https://drive.google.com/file/d/1A3wtTuAJ9wLghvSzuMJ7cG3fQaD6deFb/view?usp=drive
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+https://dhikaaprtma.wordpress.com/2023/12/29/protokol-komunikasi-iot-mqtt/
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
