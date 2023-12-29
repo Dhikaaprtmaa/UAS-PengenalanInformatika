@@ -199,6 +199,8 @@ https://dhikaaprtma.wordpress.com/2023/12/27/profesi-terkait-informatika-dan-pro
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://drive.google.com/file/d/1ZS_objAVZh5qx2NpNsnujmGThB-wEvW_/view?usp=drive_link
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
