@@ -203,6 +203,8 @@ https://drive.google.com/file/d/1ZS_objAVZh5qx2NpNsnujmGThB-wEvW_/view?usp=drive
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+https://drive.google.com/file/d/1bHHiAD8pZs9__WzkjG5rCVsqFo-O5LDh/view?usp=drive_link
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
