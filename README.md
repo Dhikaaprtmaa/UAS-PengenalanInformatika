@@ -217,7 +217,11 @@ https://drive.google.com/file/d/1bHHiAD8pZs9__WzkjG5rCVsqFo-O5LDh/view?usp=drive
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://drive.google.com/file/d/1YdZW0N5vS5HTsSg2zlODChJMd14on5hR/view?usp=drive_link
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+https://drive.google.com/file/d/1E4yu8rtP-LT-VimIrZiLbIUYGAHDz2oM/view?usp=drive_link
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
