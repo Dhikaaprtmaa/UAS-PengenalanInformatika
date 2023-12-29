@@ -159,6 +159,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
