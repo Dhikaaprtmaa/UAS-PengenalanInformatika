@@ -2,11 +2,11 @@
 
 # Hello Informatics !
 
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## Menjelaskan dan Menginternalisasi Computational Thinking (V) ⭐⭐⭐⭐⭐⭐⭐
 
 https://dhikaaprtma.wordpress.com/2023/12/26/pengenalan-informatika/
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## Menjelaskan Jenis-Jenis Mesin Komputasi (V)⭐⭐⭐
 
 https://dhikaaprtma.wordpress.com/2023/12/26/seni-menjalin-hubungan/
 
@@ -95,7 +95,7 @@ public class BubbleSort {
 
 https://drive.google.com/file/d/1wFqSKASy_aAEfy5X_U1FQTrb-hucbUJd/view?usp=drive_link
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser (V) ⭐⭐⭐⭐⭐
 
 Penjelasan coding atau pembuatan game (https://drive.google.com/file/d/1_FMRsrSkPIXsobya6KT3pwkz9Hxmq71C/view?usp=drive_link)
 
