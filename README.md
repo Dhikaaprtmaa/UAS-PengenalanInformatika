@@ -178,6 +178,8 @@ https://dhikaaprtma.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://drive.google.com/file/d/1wNKi3FBH5yNtC8xQOtbj9Ed9j7ehUA_V/view?usp=drive_link
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 https://dhikaaprtma.wordpress.com/2023/12/30/mencoba-edit-konten-multimedia/
