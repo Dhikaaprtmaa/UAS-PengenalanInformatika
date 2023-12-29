@@ -199,6 +199,8 @@ https://dhikaaprtma.wordpress.com/2023/12/29/protokol-komunikasi-iot-mqtt/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+https://drive.google.com/file/d/1LGXqSyp8F6JbEVBdpDT9E6APCwTd6a1Y/view?usp=drive_link
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 Disini saya menonton sebuah video persentasi tugas akhir dari NOVIANI JEMIMA UNIVERSITAS BINA SARANA INFORMATIKA
