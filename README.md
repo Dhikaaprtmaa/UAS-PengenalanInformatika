@@ -225,6 +225,8 @@ https://drive.google.com/file/d/1E4yu8rtP-LT-VimIrZiLbIUYGAHDz2oM/view?usp=drive
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+https://drive.google.com/file/d/14DQ5KsB_LrJR6FAZrrfjUKCC9F-b7VTR/view?usp=drive_link
+
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
