@@ -183,6 +183,8 @@ https://drive.google.com/file/d/1BoBCQqyBDr7Utc2IgSNNVo3-y_sZ2ALu/view?usp=drive
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+https://drive.google.com/file/d/1A3wtTuAJ9wLghvSzuMJ7cG3fQaD6deFb/view?usp=drive_link
+
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
