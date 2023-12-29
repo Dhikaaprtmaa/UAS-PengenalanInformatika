@@ -178,6 +178,8 @@ https://dhikaaprtma.wordpress.com/
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+https://dhikaaprtma.wordpress.com/2023/12/30/mencoba-edit-konten-multimedia/
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
