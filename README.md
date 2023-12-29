@@ -143,6 +143,19 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+{
+    "id"    : 1,
+    "nama"  : "andhika pratama kurniawan",
+    "tanggal lahir"     : "Bandung, 27 April 2005",
+    "status"    : "mahasiswa",
+    "hobi"  : ["berolahraga",
+                "bermain game"]
+
+}
+
+![Tugas PDP - Google Drive - Google Chrome 29_12_2023 23_44_45](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/60d3c54c-ddd8-40f5-a6ae-7e3e29bd2b66)
+
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
