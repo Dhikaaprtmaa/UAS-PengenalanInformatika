@@ -177,9 +177,8 @@ https://dhikaaprtma.wordpress.com/2024/01/01/mencoba-http-request-dan-web-api-de
 https://dhikaaprtma.wordpress.com/2024/01/01/mendemonstrasikan-penggunaan-developer-tools-pada-web-browser/
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+https://dhikaaprtma.wordpress.com/2024/01/01/mengeksplorasi-dan-menjelaskan-layanan-cloud-service/
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
