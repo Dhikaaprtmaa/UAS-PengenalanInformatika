@@ -170,6 +170,8 @@ Referensi []
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+https://dhikaaprtma.wordpress.com/2024/01/01/mencoba-http-request-dan-web-api-dengan-hoppscotch/
+
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
