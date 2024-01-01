@@ -216,6 +216,22 @@ https://drive.google.com/file/d/1LZVjM_nDcySglPyGY1PTwEkz9O6J4Wj3/view?usp=drive
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+Text To Text 
+
+Disini saya menggunakan AI ChatGPT
+
+![UAS-PengenalanInformatika_README md at main · Dhikaaprtmaa_UAS-PengenalanInformatika - Google Chrome 01_01_2024 22_17_41](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/bf22e936-de85-4ad7-a112-269ceaee27ea)
+
+https://drive.google.com/file/d/1zV3L67D8iDhJAld1jaxaMOYV9KgocP25/view?usp=drive_link
+
+Text To Image
+
+Disini saya menggunakan AI Bing
+
+![ChatGPT - Google Chrome 01_01_2024 22_26_07](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/ad7b1d5c-a020-40a1-bab8-0aef82ff7fc4)
+
+https://drive.google.com/file/d/1gTHywBQWtAl5HA2VOACxig-5kBgYmzBC/view?usp=drive_link
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 TTS
