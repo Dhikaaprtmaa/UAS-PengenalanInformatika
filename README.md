@@ -116,6 +116,9 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+
+https://dhikaaprtma.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
