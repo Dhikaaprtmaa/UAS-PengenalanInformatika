@@ -196,6 +196,16 @@ https://dhikaaprtma.wordpress.com/2023/12/30/mencoba-edit-konten-multimedia/
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+Image 
+
+![image](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/106f3825-3699-4499-a2cb-9ef625ce7be0)
+
+Audio 
+
+![(978) Nadhif Basalamah - Penjaga Hati  Lirik Lagu  - YouTube - Google Chrome 01_01_2024 21_42_39](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/3a5fbe8d-ec2e-49f6-b411-27372b80cd0f)
+
+![(978) Nadhif Basalamah - Penjaga Hati  Lirik Lagu  - YouTube - Google Chrome 01_01_2024 21_42_55](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/b799d5ae-c75c-435d-8b98-3b202944a571)
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
