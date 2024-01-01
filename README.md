@@ -208,6 +208,12 @@ Audio
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+Mencoba menggunakan AI Bard
+
+![(978) Nadhif Basalamah - Penjaga Hati  Lirik Lagu  - YouTube - Google Chrome 01_01_2024 22_03_24](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/c7ccd9a4-6d43-4d4d-a639-53706c8d22bd)
+
+https://drive.google.com/file/d/1LZVjM_nDcySglPyGY1PTwEkz9O6J4Wj3/view?usp=drive_link
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
