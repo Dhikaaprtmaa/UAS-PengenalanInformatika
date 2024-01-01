@@ -202,6 +202,14 @@ https://dhikaaprtma.wordpress.com/2023/12/30/mencoba-edit-konten-multimedia/
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+TTS
+
+![(978) Nadhif Basalamah - Penjaga Hati  Lirik Lagu  - YouTube - Google Chrome 01_01_2024 21_42_39](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/3a5fbe8d-ec2e-49f6-b411-27372b80cd0f)
+
+Speechrecognition
+
+![(978) Nadhif Basalamah - Penjaga Hati  Lirik Lagu  - YouTube - Google Chrome 01_01_2024 21_42_55](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/b799d5ae-c75c-435d-8b98-3b202944a571)
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
