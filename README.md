@@ -27,6 +27,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+![UAS-PengenalanInformatika_README md at main · Dhikaaprtmaa_UAS-PengenalanInformatika - Google Chrome 01_01_2024 22_43_40](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/b5659622-7eda-4cbb-aa20-d3ce1be4e709)
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
