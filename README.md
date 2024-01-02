@@ -46,7 +46,9 @@ flowchart TD;
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+![Scratch - Imagine, Program, Share - Google Chrome 02_01_2024 13_44_11](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/4da89806-6c36-459a-b249-ce86b35e45a2)
+
+https://drive.google.com/file/d/190VVXrLRs9J6YUk1SToupt2JYi62X-TT/view?usp=drive_link
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
