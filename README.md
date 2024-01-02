@@ -132,15 +132,13 @@ https://drive.google.com/file/d/1-w7hTs9m03wf48zL0d4BRa7RwMgHszZS/view?usp=drive
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-
 contoh demonstrasi tampilan halaman website (https://drive.google.com/file/d/1ZJGxEGCIsGcBaRM2R9qk5uxw9PNE9v7T/view?usp=drive_link)
 
 penjelasan mengenai pembuatan halaman menggunakan struktur HTML 5 dan Desain menggunakan CSS (https://drive.google.com/file/d/1WMVwIlZPkE7_i2Mv93_Ai5s16r0t9Q_P/view?usp=drive_link)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penerapan-teknik-search-engine-optimization-seo/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
