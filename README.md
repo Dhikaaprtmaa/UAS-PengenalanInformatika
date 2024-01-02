@@ -188,6 +188,8 @@ https://dhikaaprtma.wordpress.com/2023/12/30/mencoba-edit-konten-multimedia/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+https://drive.google.com/file/d/10knNmIWgnblvE-Z2CMcSnMJtW1EQQJl6/view?usp=drive_link
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 Image 
