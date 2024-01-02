@@ -29,8 +29,6 @@ https://dhikaaprtma.wordpress.com/2023/12/26/seni-menjalin-hubungan/
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-
 Contoh Flow chart tentang game yang telah di buat 
 
 ```mermaid
