@@ -247,6 +247,8 @@ https://dhikaaprtma.wordpress.com/2023/12/29/protokol-komunikasi-iot-mqtt/
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+https://drive.google.com/file/d/1jVB5FbMMYalXii0xLMdy8EksVixvx0_4/view?usp=drive_link
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 https://dhikaaprtma.wordpress.com/2024/01/02/memproses-file-big-data-orc-menggunakan-google-colab/
