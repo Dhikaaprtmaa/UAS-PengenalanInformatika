@@ -115,9 +115,6 @@ https://dhikaaprtma.wordpress.com/2023/12/27/menginstalasi-database/
 
 Tampilan website HTML
 
-![Uploading 000webhost File Manager - Google Chrome 03_01_2024 01_08_52.png…]()
-
-
 https://dhikaaprtma.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
@@ -156,6 +153,11 @@ Link wordpress yang saya buat [Tips Menenangkan hati dan pikiran](https://dhikaa
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+
+Tampilan Website HTML menggunakan webhost
+
+![000webhost File Manager - Google Chrome 03_01_2024 01_08_52](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/83faf805-fe2a-4adc-a220-a7af53bee945)
+
 
 https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting/
 
