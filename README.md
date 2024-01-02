@@ -231,7 +231,15 @@ Speechrecognition
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+![Data dan Grafik (Fisdas Bandul) - Excel 02_01_2024 18_00_49](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/7082d11c-7bf5-437e-8e51-24b356dd3197)
+
+https://drive.google.com/file/d/1RA5kk4BGSMWELAQb0Ln-vRDaf4BPr6Sv/view?usp=drive_link
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+![chart js - Penelusuran Google - Google Chrome 02_01_2024 17_59_49](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/22837a83-666f-471f-8cf0-d3f28c443a2d)
+
+https://drive.google.com/file/d/19wICWEgibhnjsRZNWcYOtm609B-UE_ut/view?usp=drive_link
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
