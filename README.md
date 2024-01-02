@@ -116,8 +116,8 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+![localhost _ 127 0 0 1 _ phpMyAdmin 5 2 1 - Personal - Microsoft​ Edge 27_12_2023 09_03_56](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/69131455-b177-42dd-b05c-7217c59e492e)
+
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
