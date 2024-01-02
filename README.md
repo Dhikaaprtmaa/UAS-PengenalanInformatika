@@ -133,6 +133,8 @@ penjelasan mengenai pembuatan halaman menggunakan struktur HTML 5 dan Desain men
 
 https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penerapan-teknik-search-engine-optimization-seo/
 
+Link wordpress yang saya buat [Tips Menenangkan hati dan pikiran](https://dhikaaprtma.wordpress.com/2024/01/02/tips-untuk-menenangkan-hati-dan-pikiran/)
+
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 {
@@ -150,8 +152,14 @@ https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penerapan-teknik-search-eng
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting/
+
+https://dhikaaprtma.000webhostapp.com/
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+https://dhikaaprtma.000webhostapp.com/
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
