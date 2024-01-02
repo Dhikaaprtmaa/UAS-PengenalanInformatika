@@ -20,8 +20,6 @@ https://dhikaaprtma.wordpress.com/2023/12/26/seni-menjalin-hubungan/
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
 ![Command Prompt 27_12_2023 07_15_12](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/e50aba43-84e3-4d69-a829-38864143aa15)
 
 
