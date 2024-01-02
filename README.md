@@ -113,8 +113,6 @@ https://dhikaaprtma.wordpress.com/2023/12/27/menginstalasi-database/
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-Tampilan website HTML
-
 https://dhikaaprtma.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
