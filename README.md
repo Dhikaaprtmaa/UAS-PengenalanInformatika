@@ -122,26 +122,17 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 https://dhikaaprtma.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 https://dhikaaprtma.wordpress.com/2023/12/30/menjelaskan-komponen-dari-contoh-uniform-resource-locator-url/
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://drive.google.com/file/d/1-w7hTs9m03wf48zL0d4BRa7RwMgHszZS/view?usp=drive_link
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 contoh demonstrasi tampilan halaman website (https://drive.google.com/file/d/1ZJGxEGCIsGcBaRM2R9qk5uxw9PNE9v7T/view?usp=drive_link)
 
