@@ -159,6 +159,8 @@ https://dhikaaprtma.000webhostapp.com/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting/
+
 https://dhikaaprtma.000webhostapp.com/
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
