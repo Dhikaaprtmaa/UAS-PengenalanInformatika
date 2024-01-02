@@ -168,6 +168,7 @@ tampilan web service
 
 ![000webhost File Manager - Google Chrome 03_01_2024 00_43_02](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/c19b59f4-fe76-4283-a2f8-59ec8c10675b)
 
+https://urbanchictoko.000webhostapp.com/adminpanel/
 
 https://dhikaaprtma.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting/
 
