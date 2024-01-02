@@ -107,9 +107,6 @@ Demonstrasi Game (https://drive.google.com/file/d/1Z5U_mAxQnG8rrUKOK4BK9DOM71M5S
 
 https://dhikaaprtma.wordpress.com/2023/12/27/menginstalasi-database/
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 ![Scratch - Imagine, Program, Share - Google Chrome 02_01_2024 13_55_57](https://github.com/Dhikaaprtmaa/UAS-PengenalanInformatika/assets/144656642/38789b93-1652-4655-9572-1be51d057269)
